@@ -1,0 +1,4 @@
+# Executáveis compilados (não versionar binário, só código-fonte e texturas)
+*.o
+sistema_solar
+src/sistema_solar
